@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DrinkingTime</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="ingredients">Ingredients</string>
+    <!-- Drink -->
+    <string name="load_drinks">Loading Drinks...</string>
+    <!-- Drink Detail -->
+    <string name="drink_detail">Drink Detail</string>
+    <string name="howto_mix">How to Mix</string>
+    <string name="tools">Tools</string>
+    <string name="watch_video">Video</string>
+    <!-- Tool -->
+    <string name="tool">Tool</string>
+    <!-- Video -->
+    <string name="video_error">Error when playing video</string>
+</resources>
